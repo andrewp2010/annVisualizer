@@ -14,7 +14,7 @@ Additional python packages required:
 
 ## Additional Resources
 - See [API](doc/api.md) for a general overview of annViz API
-- See [Style Guide](doc/styleGuide.md) for the style guide referenced for this project
+- See [Style Guide](doc/styleGuide/styleGuide.md) for the style guide referenced for this project
 
 ## License
 Apache License 2.0
